@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Eduardo Oliveira!
+# 👋 Olá, eu sou Eduardo!
 
 💻 Desenvolvedor apaixonado por tecnologia, inovação e código limpo.  
 🚀 Sempre em busca de aprender algo novo e contribuir com a comunidade open source.
