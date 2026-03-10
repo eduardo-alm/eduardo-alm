@@ -7,8 +7,7 @@
 
 - 🌱 Atualmente estudando **TypeScript, Power BI e desenvolvimento full stack**
 - 💼 Trabalhando em **projetos pessoais e aprimorando minhas habilidades técnicas**
-- 🎯 Objetivo: **me especializar em desenvolvimento web e análise de dados**
-- ⚡ Curiosidade: **adoro transformar ideias em soluções reais por meio da tecnologia**
+- 🎯 Objetivo: **me especializar em desenvolvimento full-stack e análise de dados**
 
 ## 🛠️ Tecnologias e Ferramentas
 
