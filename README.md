@@ -3,12 +3,6 @@
 💻 Desenvolvedor apaixonado por tecnologia, inovação e código limpo.  
 🚀 Sempre em busca de aprender algo novo e contribuir com a comunidade open source.
 
-## 🧠 Sobre mim
-
-- 🌱 Atualmente estudando **TypeScript, Power BI e desenvolvimento full stack**
-- 💼 Trabalhando em **projetos pessoais e aprimorando minhas habilidades técnicas**
-- 🎯 Objetivo: **me especializar em desenvolvimento full-stack e análise de dados**
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
